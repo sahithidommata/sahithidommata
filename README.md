@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahithi Dommata</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate mern stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahithidommata&label=Profile%20views&color=0e75b6&style=flat" alt="sahithidommata" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dommatasahithi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-xFyaHJu3Gc96og1TfcRCGRr9vCYEmwW/view?usp=sharing](https://drive.google.com/file/d/1-xFyaHJu3Gc96og1TfcRCGRr9vCYEmwW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ih9RNJJtBzlcvLRoDP2Eas8qwgnkwVEb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
