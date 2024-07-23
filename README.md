@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dommatasahithi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ih9RNJJtBzlcvLRoDP2Eas8qwgnkwVEb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ih9RNJJtBzlcvLRoDP2Eas8qwgnkwVEb/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
